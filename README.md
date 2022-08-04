@@ -8,11 +8,11 @@
 #### Technologies I am familar with:
  - HTML <a><img style="width:16px; height:16px;" src="https://github.com/0xjoshva/0xjoshva/blob/main/html.png?raw=true"></a>
  - CSS <a><img style="width:16px; height:16px;" src="https://github.com/0xjoshva/0xjoshva/blob/main/css.png?raw=true"></a>
- - Javascript <a><img style="width:16px; height:16px;" src="https://github.com/0xjoshva/0xjoshva/blob/main/javas.png?raw=true"></a>
- - Node <img src="https://github.com/0xjoshva/0xjoshva/blob/main/node.png?raw=true" width="16px;" height="16px;">
+ - JavaScript <a><img style="width:16px; height:16px;" src="https://github.com/0xjoshva/0xjoshva/blob/main/javas.png?raw=true"></a>
+ - Node.js <img src="https://github.com/0xjoshva/0xjoshva/blob/main/node.png?raw=true" width="16px;" height="16px;">
  - MySQL <img src="https://github.com/0xjoshva/0xjoshva/blob/main/sql.png?raw=true" width="20px;" height="20px;">
  - Git <a><img style="width:16px; height:16px;" src="https://github.com/0xjoshva/0xjoshva/blob/main/git.png?raw=true"></a>
- - Vue <img src="https://github.com/0xjoshva/0xjoshva/blob/main/vue.png?raw=true" width="16px;" height="16px;">
+ - Vue.js <img src="https://github.com/0xjoshva/0xjoshva/blob/main/vue.png?raw=true" width="16px;" height="16px;">
 
 
 
