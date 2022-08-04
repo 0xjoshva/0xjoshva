@@ -1,3 +1,5 @@
+![Design and Development](https://github.com/0xjoshva/0xjoshva/blob/main/banner.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Joshua Steed</h1>
 <h3 align="center">An aspiring frontend developer from Cape Town, South Africa</h3>
 
