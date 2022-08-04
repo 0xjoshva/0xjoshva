@@ -6,7 +6,7 @@
 
 
 
-<a><img src="https://github.com/0xjoshva/0xjoshva/blob/main/html.png?raw=true"></a>
-<a><img src="https://github.com/0xjoshva/0xjoshva/blob/main/css.png?raw=true"></a>
-<a><img src="https://github.com/0xjoshva/0xjoshva/blob/main/git.png?raw=true"></a>
-<a><img src="https://github.com/0xjoshva/0xjoshva/blob/main/javas.png?raw=true"></a>
+<a><img style="width:30px; height:auto;" src="https://github.com/0xjoshva/0xjoshva/blob/main/html.png?raw=true"></a>
+<a><img style="width:30px; height:auto;" src="https://github.com/0xjoshva/0xjoshva/blob/main/css.png?raw=true"></a>
+<a><img style="width:30px; height:auto;" src="https://github.com/0xjoshva/0xjoshva/blob/main/git.png?raw=true"></a>
+<a><img style="width:30px; height:auto;" src="https://github.com/0xjoshva/0xjoshva/blob/main/javas.png?raw=true"></a>
