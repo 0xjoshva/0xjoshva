@@ -13,7 +13,6 @@
  - JavaScript
  - Node.js
  - MySQL
- - Git
  - Vue.js
  - Vuetify
  - Quasar
