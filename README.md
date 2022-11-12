@@ -9,11 +9,15 @@
 #### Technologies I am familar with:
  - HTML
  - CSS
+ - SCSS/Sass
  - JavaScript
  - Node.js
  - MySQL
  - Git
  - Vue.js
+ - Vuetify
+ - Quasar
+ - Git
  
  </div>
 
