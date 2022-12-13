@@ -6,20 +6,6 @@
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,git,mysql,sass,nodejs,bootstrap,wordpress,figma,photoshop)](https://skillicons.dev)
-#### Technologies I am familar with:
- - HTML
- - CSS
- - SCSS/Sass
- - JavaScript
- - Node.js
- - MySQL
- - Vue.js
- - Vuetify
- - Quasar
- - Git
- 
- </div>
-
 
 
 
